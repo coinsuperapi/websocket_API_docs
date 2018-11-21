@@ -39,6 +39,14 @@ websocket API 是交易所面向外部开发者提供的开发接口。
 
 ##### [1.4 实时成交行情（最新成交行情数据）](https://github.com/coinsuperapi/websocket_API_docs/wiki#14-%E5%AE%9E%E6%97%B6%E6%88%90%E4%BA%A4%E8%A1%8C%E6%83%85%E6%9C%80%E6%96%B0%E6%88%90%E4%BA%A4%E8%A1%8C%E6%83%85%E6%95%B0%E6%8D%AE)
 
+#### [2.用户私有数据](https://github.com/coinsuperapi/websocket_API_docs/wiki#2%E7%94%A8%E6%88%B7%E7%A7%81%E6%9C%89%E6%95%B0%E6%8D%AE)
+
+##### [2.1 用户账户资产变更](https://github.com/coinsuperapi/websocket_API_docs/wiki#21-%E7%94%A8%E6%88%B7%E8%B4%A6%E6%88%B7%E8%B5%84%E4%BA%A7%E5%8F%98%E6%9B%B4)
+
+##### [2.2 订单状态变更](https://github.com/coinsuperapi/websocket_API_docs/wiki#22-%E8%AE%A2%E5%8D%95%E7%8A%B6%E6%80%81%E5%8F%98%E6%9B%B4)
+
+##### [2.3 订单成交信息](https://github.com/coinsuperapi/websocket_API_docs/wiki#23-%E8%AE%A2%E5%8D%95%E6%88%90%E4%BA%A4%E4%BF%A1%E6%81%AF)
+
 ------
 
 ## 联系我们
